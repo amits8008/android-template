@@ -16,7 +16,7 @@ import dagger.hilt.android.testing.HiltAndroidTest
 import dagger.hilt.android.testing.UninstallModules
 import io.bloco.template.AppModule
 import io.bloco.template.R
-import io.bloco.template.data.CounterRepository
+import io.bloco.template.data.repository.CounterRepository
 import kotlinx.coroutines.runBlocking
 import org.junit.Rule
 import org.junit.Test

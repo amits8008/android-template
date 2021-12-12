@@ -3,4 +3,5 @@
     <string name="error_message">Can\'t decrease more</string>
     <string name="counter">Counter:</string>
     <string name="counter_default_value">0</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

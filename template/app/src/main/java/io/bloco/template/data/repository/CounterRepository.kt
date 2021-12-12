@@ -1,4 +1,4 @@
-package io.bloco.template.data
+package io.bloco.template.data.repository
 
 import com.tfcporciuncula.flow.FlowSharedPreferences
 import io.bloco.template.domain.models.Counter

@@ -1,7 +1,7 @@
 package io.bloco.template.domain
 
 import io.bloco.template.domain.models.Counter
-import io.bloco.template.data.CounterRepository
+import io.bloco.template.data.repository.CounterRepository
 import timber.log.Timber
 import javax.inject.Inject
 

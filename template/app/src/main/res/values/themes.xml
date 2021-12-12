@@ -2,9 +2,9 @@
 <resources>
 
     <!-- Edge-to-edge rendering can be found on theme.xml(v29)-->
-    <style name="Base.AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+    <style name="Base.AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
         <item name="android:navigationBarColor">@android:color/transparent</item>
-        <item name="android:windowTranslucentNavigation">true</item>
+<!--        <item name="android:windowTranslucentNavigation">true</item>-->
 
         <item name="android:statusBarColor">@color/bloco_green</item>
     </style>
